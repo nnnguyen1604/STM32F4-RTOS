@@ -1,0 +1,10 @@
+../Core/Src/freertos.c:62:6:TurnOffLCD	1
+../Core/Src/freertos.c:67:6:EnterSleepMode	1
+../Core/Src/freertos.c:75:13:ReadTemperature	1
+../Core/Src/freertos.c:140:6:vApplicationGetIdleTaskMemory	1
+../Core/Src/freertos.c:154:6:MX_FREERTOS_Init	1
+../Core/Src/freertos.c:205:6:HAL_UART_RxCpltCallback	5
+../Core/Src/freertos.c:233:6:StartDefaultTask	1
+../Core/Src/freertos.c:251:6:StartTask01	1
+../Core/Src/freertos.c:271:6:StartTask02	1
+../Core/Src/freertos.c:286:6:StartTask03	2
