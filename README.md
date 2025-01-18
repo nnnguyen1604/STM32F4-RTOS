@@ -6,4 +6,6 @@ Description: Configure the RTOS on the board, initialize 3 threads to perform th
               Task 2: Initialize UART protocol to transmit any data from the computer.
 
               Task 3: Display the value of the sensor on the LCD.
-              ![Screenshot 2025-01-09 230645](https://github.com/user-attachments/assets/3995dfcb-4d76-4dcf-9923-e1ea19454175)
+
+![Screenshot 2025-01-09 230645](https://github.com/user-attachments/assets/2848786a-ef64-4ea8-b10d-a658793d918b)
+![Screenshot 2025-01-09 230558](https://github.com/user-attachments/assets/8199379e-642a-4096-a03b-4b728c518d84)
